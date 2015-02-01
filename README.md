@@ -1,3 +1,13 @@
+![logo](screens/1.png)
+
+![logo](screens/2.png)
+
+![logo](screens/3.png)
+
+![logo](screens/4.png)
+
+![logo](screens/5.png)
+
 Strona testowana na:
   * Przeglądarki: 	Firefox, Chrome, Opera
   * Oprogramowanie: 	Apache/2.4.10, PHP 5.5.12, MySQL 5.5.40 - wszystkie dostępne w domyślnym repozytorium Ubuntu 14.10
